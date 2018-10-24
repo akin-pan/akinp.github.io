@@ -1,3 +1,3 @@
-# akin-dev-blog.github.io
+# akin-devel.github.io
 
 akin的个人博客
